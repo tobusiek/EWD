@@ -1,0 +1,12 @@
+1) regresja liniowa: na danych "cars" budowac
+   modele przewidujące spalanie ("mpg"). 
+    a) dokonac selekcji atrybutow metodą
+       forward lub backward
+    b) dokonac modelowania przy uzyciu
+       interakcji i drugiego stopnia
+
+2) klasyfikacja na danych "census data"
+   za pomocą kilku modeli, np:
+    a) k-nn
+    b) regresji logistycznej
+    (ewentualnie drzewa i lasu losowego, etc.)

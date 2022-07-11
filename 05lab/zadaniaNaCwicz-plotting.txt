@@ -1,0 +1,17 @@
+Zadania na cw5
+
+wgrac dane census
+wykres pudełkowy np. wieku + tytul
+wykres kołowy
+histogram np wieku + histogram po
+    1) min-max
+    2) sigmoid na tym samym wykresie (+ przezroczystosc)
+        DO TEGO WROCIC???
+wykres slupkowy zwykly, poziomy, "stacked"
+wykres slupkowy 2 zmiennych (uzyc groupby)
+
+wykres rozrzutu 2D (np. danych iris)
+wykres liniowy (np. funkcji sigmoidalnej, albo rozkladu
+normalnego)
+
+rysunek wielokrotny (np. rozne 2 histogramy na jednym)

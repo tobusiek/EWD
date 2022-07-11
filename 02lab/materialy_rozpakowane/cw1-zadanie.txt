@@ -1,0 +1,19 @@
+
+cw EWD:
+1 cel: wstępnie przygotować dane do zadania klasyfikacji 
+
+system operacyjny:
+2a ściągnąć dane i opis, sprawdzić typ pliku, rozpakować, sprawdzić rozmiar, policzyć linie, rzucić okiem na dane.
+
+python:
+3a wczytanie: wgrać dane jako dataFrame
+3b nazwy atrybutów: dodać nazwy kolumn
+3c obejrzeć dane i sprawdzić czy rozumiemy atrybuty
+(* 1a podac 3 inne przyklady sposobów wykorzystania tych danych)
+3d/4a sprawdzić czy i ile duplikatów, podjąć decyzję co z nimi zrobić (*ewentualnie: to samo, ale bez decyzyjnego (zobaczyc, czy są niesprzeczne)
+3e/4b czy są braki? jak są oznaczane? jeśli niestandardowo, to oznaczyć
+3f/4c zobaczyć ile braków - zdecydować co z nimi (kolumny? wiersze?/ usunac/zastapic? czym?)
+3g/4d spróbować wykryć ewentualne błędy w danych - jak? (na razie proste metody)
+4e dodać nową kolumnę, określającą kategorię wieku (binaryzacja)
+
+
